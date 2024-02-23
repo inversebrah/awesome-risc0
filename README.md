@@ -65,6 +65,7 @@ RISC Zero is the general purpose zero-knowledge VM.
 - [LayerN](https://twitter.com/RiscZero/status/1660712143032041472): ZK fault proof using RISC0 zkVM.
 - [AltLayer](https://www.risczero.com/news/altlayer-zkfraudproofs): ZK fault proof using RISC0 zkVM.
 - [L2IV](https://github.com/l2iterative): Building multiple libraries and toolings for RISC0 zkVM.
+- [Citrea](https://citrea.xyz/): ZK-based BitVM rollup using RISC0 zkVM.
 
 ## Research
 
