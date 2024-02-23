@@ -1,4 +1,4 @@
-# Awesome R0
+# Awesome RISC0
 
 A curated list of awesome RISC Zero resources, tutorials, tools and libraries.
 
