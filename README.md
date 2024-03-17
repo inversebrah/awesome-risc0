@@ -35,6 +35,7 @@ RISC Zero is the general purpose zero-knowledge VM.
 ### Games
 
 - [Doom](https://www.risczero.com/news/when-the-doom-music-kicks-in): Doom run in RISC0 zkVM.
+- [zkSnake](https://github.com/0xAndoroid/zkSnake): Snake game with verifiable score in RISC0 zkVM.
 
 ### VM in VM
 
