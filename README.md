@@ -83,3 +83,4 @@ RISC Zero is the general purpose zero-knowledge VM.
 - [zk-bench](https://zkbench.dev/)
 - [zk-benchmarking](https://github.com/delendum-xyz/zk-benchmarking)
 - [zk-Harness Benchmark](https://www.zk-bench.org/)
+- [BrainBench](https://brainbench.xyz/)
